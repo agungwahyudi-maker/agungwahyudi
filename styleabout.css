@@ -26,8 +26,7 @@
 	background-color: #eee;
 }main h2{
 	padding:30px 0;
-}main .banner{
-	border:1px solid;
+}.banner img{
 	width: 60%;
 	height: 200px;
 }.text {
@@ -75,7 +74,6 @@
 	align-items: center;
 }
 .box{
-	border:1px solid;
 	margin: 0 auto;
 }.box .con p{
 	font-size: 10px;
